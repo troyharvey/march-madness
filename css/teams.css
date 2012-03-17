@@ -1,0 +1,1094 @@
+    /**
+     * ©2012 ESPN Internet Ventures. Terms of Use and Privacy Policy and Safety Information/Your California Privacy Rights are applicable to you. All rights reserved.
+     **/
+
+    .logo-small {
+        float: left;
+        margin-left: 4px;
+        width: 25px;
+        height: 25px;
+    }
+    .logo-ncaa-small {
+        background-image:url(http://a4.espncdn.com/i/teamlogos/ncaa/scoreboard/trans/ncaa_logo_sprite.png);
+        background-repeat:no-repeat
+    }
+    .logo-ncaa-small.teamId-2 {
+        background-position:0 -25px
+    }
+    .logo-ncaa-small.teamId-3 {
+        background-position:-25px -25px
+    }
+    .logo-ncaa-small.teamId-5 {
+        background-position:-50px -25px
+    }
+    .logo-ncaa-small.teamId-6 {
+        background-position:-75px -25px
+    }
+    .logo-ncaa-small.teamId-8 {
+        background-position:-100px -25px
+    }
+    .logo-ncaa-small.teamId-9 {
+        background-position:-125px -25px
+    }
+    .logo-ncaa-small.teamId-12 {
+        background-position:-150px -25px
+    }
+    .logo-ncaa-small.teamId-13 {
+        background-position:-175px -25px
+    }
+    .logo-ncaa-small.teamId-16 {
+        background-position:-200px -25px
+    }
+    .logo-ncaa-small.teamId-17 {
+        background-position:-225px -25px
+    }
+    .logo-ncaa-small.teamId-21 {
+        background-position:-250px -25px
+    }
+    .logo-ncaa-small.teamId-23 {
+        background-position:-275px -25px
+    }
+    .logo-ncaa-small.teamId-24 {
+        background-position:-300px -25px
+    }
+    .logo-ncaa-small.teamId-25 {
+        background-position:-325px -25px
+    }
+    .logo-ncaa-small.teamId-26 {
+        background-position:-350px -25px
+    }
+    .logo-ncaa-small.teamId-27 {
+        background-position:-375px -25px
+    }
+    .logo-ncaa-small.teamId-30 {
+        background-position:-400px -25px
+    }
+    .logo-ncaa-small.teamId-36 {
+        background-position:-425px -25px
+    }
+    .logo-ncaa-small.teamId-38 {
+        background-position:-450px -25px
+    }
+    .logo-ncaa-small.teamId-41 {
+        background-position:-475px -25px
+    }
+    .logo-ncaa-small.teamId-42 {
+        background-position:0 -50px
+    }
+    .logo-ncaa-small.teamId-43 {
+        background-position:-25px -50px
+    }
+    .logo-ncaa-small.teamId-44 {
+        background-position:-50px -50px
+    }
+    .logo-ncaa-small.teamId-45 {
+        background-position:-75px -50px
+    }
+    .logo-ncaa-small.teamId-46 {
+        background-position:-100px -50px
+    }
+    .logo-ncaa-small.teamId-47 {
+        background-position:-125px -50px
+    }
+    .logo-ncaa-small.teamId-48 {
+        background-position:-150px -50px
+    }
+    .logo-ncaa-small.teamId-50 {
+        background-position:-175px -50px
+    }
+    .logo-ncaa-small.teamId-52 {
+        background-position:-200px -50px
+    }
+    .logo-ncaa-small.teamId-55 {
+        background-position:-225px -50px
+    }
+    .logo-ncaa-small.teamId-56 {
+        background-position:-250px -50px
+    }
+    .logo-ncaa-small.teamId-57 {
+        background-position:-275px -50px
+    }
+    .logo-ncaa-small.teamId-58 {
+        background-position:-300px -50px
+    }
+    .logo-ncaa-small.teamId-59 {
+        background-position:-325px -50px
+    }
+    .logo-ncaa-small.teamId-61 {
+        background-position:-350px -50px
+    }
+    .logo-ncaa-small.teamId-62 {
+        background-position:-375px -50px
+    }
+    .logo-ncaa-small.teamId-66 {
+        background-position:-400px -50px
+    }
+    .logo-ncaa-small.teamId-68 {
+        background-position:-425px -50px
+    }
+    .logo-ncaa-small.teamId-70 {
+        background-position:-450px -50px
+    }
+    .logo-ncaa-small.teamId-71 {
+        background-position:-475px -50px
+    }
+    .logo-ncaa-small.teamId-77 {
+        background-position:0 -75px
+    }
+    .logo-ncaa-small.teamId-79 {
+        background-position:-25px -75px
+    }
+    .logo-ncaa-small.teamId-82 {
+        background-position:-50px -75px
+    }
+    .logo-ncaa-small.teamId-84 {
+        background-position:-75px -75px
+    }
+    .logo-ncaa-small.teamId-85 {
+        background-position:-100px -75px
+    }
+    .logo-ncaa-small.teamId-87 {
+        background-position:-125px -75px
+    }
+    .logo-ncaa-small.teamId-93 {
+        background-position:-150px -75px
+    }
+    .logo-ncaa-small.teamId-96 {
+        background-position:-175px -75px
+    }
+    .logo-ncaa-small.teamId-97 {
+        background-position:-200px -75px
+    }
+    .logo-ncaa-small.teamId-98 {
+        background-position:-225px -75px
+    }
+    .logo-ncaa-small.teamId-99 {
+        background-position:-250px -75px
+    }
+    .logo-ncaa-small.teamId-103 {
+        background-position:-275px -75px
+    }
+    .logo-ncaa-small.teamId-104 {
+        background-position:-300px -75px
+    }
+    .logo-ncaa-small.teamId-107 {
+        background-position:-325px -75px
+    }
+    .logo-ncaa-small.teamId-108 {
+        background-position:-350px -75px
+    }
+    .logo-ncaa-small.teamId-111 {
+        background-position:-375px -75px
+    }
+    .logo-ncaa-small.teamId-113 {
+        background-position:-400px -75px
+    }
+    .logo-ncaa-small.teamId-116 {
+        background-position:-425px -75px
+    }
+    .logo-ncaa-small.teamId-118 {
+        background-position:-450px -75px
+    }
+    .logo-ncaa-small.teamId-119 {
+        background-position:-475px -75px
+    }
+    .logo-ncaa-small.teamId-120 {
+        background-position:0 -100px
+    }
+    .logo-ncaa-small.teamId-125 {
+        background-position:-25px -100px
+    }
+    .logo-ncaa-small.teamId-127 {
+        background-position:-50px -100px
+    }
+    .logo-ncaa-small.teamId-130 {
+        background-position:-75px -100px
+    }
+    .logo-ncaa-small.teamId-134 {
+        background-position:-100px -100px
+    }
+    .logo-ncaa-small.teamId-135 {
+        background-position:-125px -100px
+    }
+    .logo-ncaa-small.teamId-138 {
+        background-position:-150px -100px
+    }
+    .logo-ncaa-small.teamId-139 {
+        background-position:-175px -100px
+    }
+    .logo-ncaa-small.teamId-140 {
+        background-position:-200px -100px
+    }
+    .logo-ncaa-small.teamId-142 {
+        background-position:-225px -100px
+    }
+    .logo-ncaa-small.teamId-145 {
+        background-position:-250px -100px
+    }
+    .logo-ncaa-small.teamId-147 {
+        background-position:-275px -100px
+    }
+    .logo-ncaa-small.teamId-149 {
+        background-position:-300px -100px
+    }
+    .logo-ncaa-small.teamId-150 {
+        background-position:-325px -100px
+    }
+    .logo-ncaa-small.teamId-151 {
+        background-position:-350px -100px
+    }
+    .logo-ncaa-small.teamId-152 {
+        background-position:-375px -100px
+    }
+    .logo-ncaa-small.teamId-153 {
+        background-position:-400px -100px
+    }
+    .logo-ncaa-small.teamId-154 {
+        background-position:-425px -100px
+    }
+    .logo-ncaa-small.teamId-155 {
+        background-position:-450px -100px
+    }
+    .logo-ncaa-small.teamId-156 {
+        background-position:-475px -100px
+    }
+    .logo-ncaa-small.teamId-159 {
+        background-position:0 -125px
+    }
+    .logo-ncaa-small.teamId-160 {
+        background-position:-25px -125px
+    }
+    .logo-ncaa-small.teamId-161 {
+        background-position:-50px -125px
+    }
+    .logo-ncaa-small.teamId-163 {
+        background-position:-75px -125px
+    }
+    .logo-ncaa-small.teamId-164 {
+        background-position:-100px -125px
+    }
+    .logo-ncaa-small.teamId-166 {
+        background-position:-125px -125px
+    }
+    .logo-ncaa-small.teamId-167 {
+        background-position:-150px -125px
+    }
+    .logo-ncaa-small.teamId-171 {
+        background-position:-175px -125px
+    }
+    .logo-ncaa-small.teamId-172 {
+        background-position:-200px -125px
+    }
+    .logo-ncaa-small.teamId-179 {
+        background-position:-225px -125px
+    }
+    .logo-ncaa-small.teamId-183 {
+        background-position:-250px -125px
+    }
+    .logo-ncaa-small.teamId-189 {
+        background-position:-275px -125px
+    }
+    .logo-ncaa-small.teamId-193 {
+        background-position:-300px -125px
+    }
+    .logo-ncaa-small.teamId-194 {
+        background-position:-325px -125px
+    }
+    .logo-ncaa-small.teamId-195 {
+        background-position:-350px -125px
+    }
+    .logo-ncaa-small.teamId-197 {
+        background-position:-375px -125px
+    }
+    .logo-ncaa-small.teamId-198 {
+        background-position:-400px -125px
+    }
+    .logo-ncaa-small.teamId-201 {
+        background-position:-425px -125px
+    }
+    .logo-ncaa-small.teamId-202 {
+        background-position:-450px -125px
+    }
+    .logo-ncaa-small.teamId-204 {
+        background-position:-475px -125px
+    }
+    .logo-ncaa-small.teamId-213 {
+        background-position:0 -150px
+    }
+    .logo-ncaa-small.teamId-218 {
+        background-position:-25px -150px
+    }
+    .logo-ncaa-small.teamId-219 {
+        background-position:-50px -150px
+    }
+    .logo-ncaa-small.teamId-221 {
+        background-position:-75px -150px
+    }
+    .logo-ncaa-small.teamId-222 {
+        background-position:-100px -150px
+    }
+    .logo-ncaa-small.teamId-225 {
+        background-position:-125px -150px
+    }
+    .logo-ncaa-small.teamId-227 {
+        background-position:-150px -150px
+    }
+    .logo-ncaa-small.teamId-228 {
+        background-position:-175px -150px
+    }
+    .logo-ncaa-small.teamId-231 {
+        background-position:-200px -150px
+    }
+    .logo-ncaa-small.teamId-232 {
+        background-position:-225px -150px
+    }
+    .logo-ncaa-small.teamId-233 {
+        background-position:-250px -150px
+    }
+    .logo-ncaa-small.teamId-235 {
+        background-position:-275px -150px
+    }
+    .logo-ncaa-small.teamId-236 {
+        background-position:-300px -150px
+    }
+    .logo-ncaa-small.teamId-238 {
+        background-position:-325px -150px
+    }
+    .logo-ncaa-small.teamId-239 {
+        background-position:-350px -150px
+    }
+    .logo-ncaa-small.teamId-242 {
+        background-position:-375px -150px
+    }
+    .logo-ncaa-small.teamId-245 {
+        background-position:-400px -150px
+    }
+    .logo-ncaa-small.teamId-248 {
+        background-position:-425px -150px
+    }
+    .logo-ncaa-small.teamId-249 {
+        background-position:-450px -150px
+    }
+    .logo-ncaa-small.teamId-250 {
+        background-position:-475px -150px
+    }
+    .logo-ncaa-small.teamId-251 {
+        background-position:0 -175px
+    }
+    .logo-ncaa-small.teamId-252 {
+        background-position:-25px -175px
+    }
+    .logo-ncaa-small.teamId-253 {
+        background-position:-50px -175px
+    }
+    .logo-ncaa-small.teamId-254 {
+        background-position:-75px -175px
+    }
+    .logo-ncaa-small.teamId-256 {
+        background-position:-100px -175px
+    }
+    .logo-ncaa-small.teamId-257 {
+        background-position:-125px -175px
+    }
+    .logo-ncaa-small.teamId-258 {
+        background-position:-150px -175px
+    }
+    .logo-ncaa-small.teamId-259 {
+        background-position:-175px -175px
+    }
+    .logo-ncaa-small.teamId-261 {
+        background-position:-200px -175px
+    }
+    .logo-ncaa-small.teamId-264 {
+        background-position:-225px -175px
+    }
+    .logo-ncaa-small.teamId-265 {
+        background-position:-250px -175px
+    }
+    .logo-ncaa-small.teamId-269 {
+        background-position:-275px -175px
+    }
+    .logo-ncaa-small.teamId-270 {
+        background-position:-300px -175px
+    }
+    .logo-ncaa-small.teamId-275 {
+        background-position:-325px -175px
+    }
+    .logo-ncaa-small.teamId-276 {
+        background-position:-350px -175px
+    }
+    .logo-ncaa-small.teamId-277 {
+        background-position:-375px -175px
+    }
+    .logo-ncaa-small.teamId-278 {
+        background-position:-400px -175px
+    }
+    .logo-ncaa-small.teamId-279 {
+        background-position:-425px -175px
+    }
+    .logo-ncaa-small.teamId-282 {
+        background-position:-450px -175px
+    }
+    .logo-ncaa-small.teamId-288 {
+        background-position:-475px -175px
+    }
+    .logo-ncaa-small.teamId-290 {
+        background-position:0 -200px
+    }
+    .logo-ncaa-small.teamId-292 {
+        background-position:-25px -200px
+    }
+    .logo-ncaa-small.teamId-294 {
+        background-position:-50px -200px
+    }
+    .logo-ncaa-small.teamId-295 {
+        background-position:-75px -200px
+    }
+    .logo-ncaa-small.teamId-299 {
+        background-position:-100px -200px
+    }
+    .logo-ncaa-small.teamId-300 {
+        background-position:-125px -200px
+    }
+    .logo-ncaa-small.teamId-301 {
+        background-position:-150px -200px
+    }
+    .logo-ncaa-small.teamId-302 {
+        background-position:-175px -200px
+    }
+    .logo-ncaa-small.teamId-304 {
+        background-position:-200px -200px
+    }
+    .logo-ncaa-small.teamId-305 {
+        background-position:-225px -200px
+    }
+    .logo-ncaa-small.teamId-309 {
+        background-position:-250px -200px
+    }
+    .logo-ncaa-small.teamId-311 {
+        background-position:-275px -200px
+    }
+    .logo-ncaa-small.teamId-314 {
+        background-position:-300px -200px
+    }
+    .logo-ncaa-small.teamId-315 {
+        background-position:-325px -200px
+    }
+    .logo-ncaa-small.teamId-322 {
+        background-position:-350px -200px
+    }
+    .logo-ncaa-small.teamId-324 {
+        background-position:-375px -200px
+    }
+    .logo-ncaa-small.teamId-325 {
+        background-position:-400px -200px
+    }
+    .logo-ncaa-small.teamId-326 {
+        background-position:-425px -200px
+    }
+    .logo-ncaa-small.teamId-328 {
+        background-position:-450px -200px
+    }
+    .logo-ncaa-small.teamId-331 {
+        background-position:-475px -200px
+    }
+    .logo-ncaa-small.teamId-333 {
+        background-position:0 -225px
+    }
+    .logo-ncaa-small.teamId-338 {
+        background-position:-25px -225px
+    }
+    .logo-ncaa-small.teamId-339 {
+        background-position:-50px -225px
+    }
+    .logo-ncaa-small.teamId-344 {
+        background-position:-75px -225px
+    }
+    .logo-ncaa-small.teamId-349 {
+        background-position:-100px -225px
+    }
+    .logo-ncaa-small.teamId-350 {
+        background-position:-125px -225px
+    }
+    .logo-ncaa-small.teamId-356 {
+        background-position:-150px -225px
+    }
+    .logo-ncaa-small.teamId-357 {
+        background-position:-175px -225px
+    }
+    .logo-ncaa-small.teamId-399 {
+        background-position:-200px -225px
+    }
+    .logo-ncaa-small.teamId-426 {
+        background-position:-225px -225px
+    }
+    .logo-ncaa-small.teamId-526 {
+        background-position:-250px -225px
+    }
+    .logo-ncaa-small.teamId-2005 {
+        background-position:-275px -225px
+    }
+    .logo-ncaa-small.teamId-2006 {
+        background-position:-300px -225px
+    }
+    .logo-ncaa-small.teamId-2010 {
+        background-position:-325px -225px
+    }
+    .logo-ncaa-small.teamId-2011 {
+        background-position:-350px -225px
+    }
+    .logo-ncaa-small.teamId-2016 {
+        background-position:-375px -225px
+    }
+    .logo-ncaa-small.teamId-2026 {
+        background-position:-400px -225px
+    }
+    .logo-ncaa-small.teamId-2029 {
+        background-position:-425px -225px
+    }
+    .logo-ncaa-small.teamId-2031 {
+        background-position:-450px -225px
+    }
+    .logo-ncaa-small.teamId-2032 {
+        background-position:-475px -225px
+    }
+    .logo-ncaa-small.teamId-2046 {
+        background-position:0 -250px
+    }
+    .logo-ncaa-small.teamId-2050 {
+        background-position:-25px -250px
+    }
+    .logo-ncaa-small.teamId-2057 {
+        background-position:-50px -250px
+    }
+    .logo-ncaa-small.teamId-2065 {
+        background-position:-75px -250px
+    }
+    .logo-ncaa-small.teamId-2066 {
+        background-position:-100px -250px
+    }
+    .logo-ncaa-small.teamId-2083 {
+        background-position:-125px -250px
+    }
+    .logo-ncaa-small.teamId-2084 {
+        background-position:-150px -250px
+    }
+    .logo-ncaa-small.teamId-2086 {
+        background-position:-175px -250px
+    }
+    .logo-ncaa-small.teamId-2097 {
+        background-position:-200px -250px
+    }
+    .logo-ncaa-small.teamId-2099 {
+        background-position:-225px -250px
+    }
+    .logo-ncaa-small.teamId-2110 {
+        background-position:-250px -250px
+    }
+    .logo-ncaa-small.teamId-2113 {
+        background-position:-275px -250px
+    }
+    .logo-ncaa-small.teamId-2115 {
+        background-position:-300px -250px
+    }
+    .logo-ncaa-small.teamId-2116 {
+        background-position:-325px -250px
+    }
+    .logo-ncaa-small.teamId-2117 {
+        background-position:-350px -250px
+    }
+    .logo-ncaa-small.teamId-2127 {
+        background-position:-375px -250px
+    }
+    .logo-ncaa-small.teamId-2130 {
+        background-position:-400px -250px
+    }
+    .logo-ncaa-small.teamId-2132 {
+        background-position:-425px -250px
+    }
+    .logo-ncaa-small.teamId-2142 {
+        background-position:-450px -250px
+    }
+    .logo-ncaa-small.teamId-2154 {
+        background-position:-475px -250px
+    }
+    .logo-ncaa-small.teamId-2166 {
+        background-position:0 -275px
+    }
+    .logo-ncaa-small.teamId-2168 {
+        background-position:-25px -275px
+    }
+    .logo-ncaa-small.teamId-2169 {
+        background-position:-50px -275px
+    }
+    .logo-ncaa-small.teamId-2172 {
+        background-position:-75px -275px
+    }
+    .logo-ncaa-small.teamId-2174 {
+        background-position:-100px -275px
+    }
+    .logo-ncaa-small.teamId-2181 {
+        background-position:-125px -275px
+    }
+    .logo-ncaa-small.teamId-2182 {
+        background-position:-150px -275px
+    }
+    .logo-ncaa-small.teamId-2184 {
+        background-position:-175px -275px
+    }
+    .logo-ncaa-small.teamId-2193 {
+        background-position:-200px -275px
+    }
+    .logo-ncaa-small.teamId-2197 {
+        background-position:-225px -275px
+    }
+    .logo-ncaa-small.teamId-2198 {
+        background-position:-250px -275px
+    }
+    .logo-ncaa-small.teamId-2199 {
+        background-position:-275px -275px
+    }
+    .logo-ncaa-small.teamId-2210 {
+        background-position:-300px -275px
+    }
+    .logo-ncaa-small.teamId-2217 {
+        background-position:-325px -275px
+    }
+    .logo-ncaa-small.teamId-2226 {
+        background-position:-350px -275px
+    }
+    .logo-ncaa-small.teamId-2229 {
+        background-position:-375px -275px
+    }
+    .logo-ncaa-small.teamId-2230 {
+        background-position:-400px -275px
+    }
+    .logo-ncaa-small.teamId-2239 {
+        background-position:-425px -275px
+    }
+    .logo-ncaa-small.teamId-2241 {
+        background-position:-450px -275px
+    }
+    .logo-ncaa-small.teamId-2244 {
+        background-position:-475px -275px
+    }
+    .logo-ncaa-small.teamId-2247 {
+        background-position:0 -300px
+    }
+    .logo-ncaa-small.teamId-2250 {
+        background-position:-25px -300px
+    }
+    .logo-ncaa-small.teamId-2261 {
+        background-position:-50px -300px
+    }
+    .logo-ncaa-small.teamId-2272 {
+        background-position:-75px -300px
+    }
+    .logo-ncaa-small.teamId-2275 {
+        background-position:-100px -300px
+    }
+    .logo-ncaa-small.teamId-2277 {
+        background-position:-125px -300px
+    }
+    .logo-ncaa-small.teamId-2287 {
+        background-position:-150px -300px
+    }
+    .logo-ncaa-small.teamId-2294 {
+        background-position:-175px -300px
+    }
+    .logo-ncaa-small.teamId-2296 {
+        background-position:-200px -300px
+    }
+    .logo-ncaa-small.teamId-2305 {
+        background-position:-225px -300px
+    }
+    .logo-ncaa-small.teamId-2306 {
+        background-position:-250px -300px
+    }
+    .logo-ncaa-small.teamId-2309 {
+        background-position:-275px -300px
+    }
+    .logo-ncaa-small.teamId-2320 {
+        background-position:-300px -300px
+    }
+    .logo-ncaa-small.teamId-2325 {
+        background-position:-325px -300px
+    }
+    .logo-ncaa-small.teamId-2329 {
+        background-position:-350px -300px
+    }
+    .logo-ncaa-small.teamId-2335 {
+        background-position:-375px -300px
+    }
+    .logo-ncaa-small.teamId-2341 {
+        background-position:-400px -300px
+    }
+    .logo-ncaa-small.teamId-2344 {
+        background-position:-425px -300px
+    }
+    .logo-ncaa-small.teamId-2348 {
+        background-position:-450px -300px
+    }
+    .logo-ncaa-small.teamId-2350 {
+        background-position:-475px -300px
+    }
+    .logo-ncaa-small.teamId-2351 {
+        background-position:0 -325px
+    }
+    .logo-ncaa-small.teamId-2352 {
+        background-position:-25px -325px
+    }
+    .logo-ncaa-small.teamId-2363 {
+        background-position:-50px -325px
+    }
+    .logo-ncaa-small.teamId-2368 {
+        background-position:-75px -325px
+    }
+    .logo-ncaa-small.teamId-2377 {
+        background-position:-100px -325px
+    }
+    .logo-ncaa-small.teamId-2378 {
+        background-position:-125px -325px
+    }
+    .logo-ncaa-small.teamId-2379 {
+        background-position:-150px -325px
+    }
+    .logo-ncaa-small.teamId-2382 {
+        background-position:-175px -325px
+    }
+    .logo-ncaa-small.teamId-2390 {
+        background-position:-200px -325px
+    }
+    .logo-ncaa-small.teamId-2393 {
+        background-position:-225px -325px
+    }
+    .logo-ncaa-small.teamId-2400 {
+        background-position:-250px -325px
+    }
+    .logo-ncaa-small.teamId-2405 {
+        background-position:-275px -325px
+    }
+    .logo-ncaa-small.teamId-2413 {
+        background-position:-300px -325px
+    }
+    .logo-ncaa-small.teamId-2415 {
+        background-position:-325px -325px
+    }
+    .logo-ncaa-small.teamId-2417 {
+        background-position:-350px -325px
+    }
+    .logo-ncaa-small.teamId-2426 {
+        background-position:-375px -325px
+    }
+    .logo-ncaa-small.teamId-2427 {
+        background-position:-400px -325px
+    }
+    .logo-ncaa-small.teamId-2428 {
+        background-position:-425px -325px
+    }
+    .logo-ncaa-small.teamId-2429 {
+        background-position:-450px -325px
+    }
+    .logo-ncaa-small.teamId-2430 {
+        background-position:-475px -325px
+    }
+    .logo-ncaa-small.teamId-2433 {
+        background-position:0 -350px
+    }
+    .logo-ncaa-small.teamId-2439 {
+        background-position:-25px -350px
+    }
+    .logo-ncaa-small.teamId-2440 {
+        background-position:-50px -350px
+    }
+    .logo-ncaa-small.teamId-2443 {
+        background-position:-75px -350px
+    }
+    .logo-ncaa-small.teamId-2447 {
+        background-position:-100px -350px
+    }
+    .logo-ncaa-small.teamId-2448 {
+        background-position:-125px -350px
+    }
+    .logo-ncaa-small.teamId-2449 {
+        background-position:-150px -350px
+    }
+    .logo-ncaa-small.teamId-2450 {
+        background-position:-175px -350px
+    }
+    .logo-ncaa-small.teamId-2454 {
+        background-position:-200px -350px
+    }
+    .logo-ncaa-small.teamId-2458 {
+        background-position:-225px -350px
+    }
+    .logo-ncaa-small.teamId-2459 {
+        background-position:-250px -350px
+    }
+    .logo-ncaa-small.teamId-2460 {
+        background-position:-275px -350px
+    }
+    .logo-ncaa-small.teamId-2463 {
+        background-position:-300px -350px
+    }
+    .logo-ncaa-small.teamId-2464 {
+        background-position:-325px -350px
+    }
+    .logo-ncaa-small.teamId-2466 {
+        background-position:-350px -350px
+    }
+    .logo-ncaa-small.teamId-2473 {
+        background-position:-375px -350px
+    }
+    .logo-ncaa-small.teamId-2483 {
+        background-position:-400px -350px
+    }
+    .logo-ncaa-small.teamId-2492 {
+        background-position:-425px -350px
+    }
+    .logo-ncaa-small.teamId-2501 {
+        background-position:-450px -350px
+    }
+    .logo-ncaa-small.teamId-2502 {
+        background-position:-475px -350px
+    }
+    .logo-ncaa-small.teamId-2504 {
+        background-position:0 -375px
+    }
+    .logo-ncaa-small.teamId-2506 {
+        background-position:-25px -375px
+    }
+    .logo-ncaa-small.teamId-2507 {
+        background-position:-50px -375px
+    }
+    .logo-ncaa-small.teamId-2509 {
+        background-position:-75px -375px
+    }
+    .logo-ncaa-small.teamId-2514 {
+        background-position:-100px -375px
+    }
+    .logo-ncaa-small.teamId-2515 {
+        background-position:-125px -375px
+    }
+    .logo-ncaa-small.teamId-2520 {
+        background-position:-150px -375px
+    }
+    .logo-ncaa-small.teamId-2523 {
+        background-position:-175px -375px
+    }
+    .logo-ncaa-small.teamId-2529 {
+        background-position:-200px -375px
+    }
+    .logo-ncaa-small.teamId-2534 {
+        background-position:-225px -375px
+    }
+    .logo-ncaa-small.teamId-2535 {
+        background-position:-250px -375px
+    }
+    .logo-ncaa-small.teamId-2539 {
+        background-position:-275px -375px
+    }
+    .logo-ncaa-small.teamId-2540 {
+        background-position:-300px -375px
+    }
+    .logo-ncaa-small.teamId-2541 {
+        background-position:-325px -375px
+    }
+    .logo-ncaa-small.teamId-2542 {
+        background-position:-350px -375px
+    }
+    .logo-ncaa-small.teamId-2545 {
+        background-position:-375px -375px
+    }
+    .logo-ncaa-small.teamId-2546 {
+        background-position:-400px -375px
+    }
+    .logo-ncaa-small.teamId-2550 {
+        background-position:-425px -375px
+    }
+    .logo-ncaa-small.teamId-2561 {
+        background-position:-450px -375px
+    }
+    .logo-ncaa-small.teamId-2565 {
+        background-position:-475px -375px
+    }
+    .logo-ncaa-small.teamId-2567 {
+        background-position:0 -400px
+    }
+    .logo-ncaa-small.teamId-2569 {
+        background-position:-25px -400px
+    }
+    .logo-ncaa-small.teamId-2571 {
+        background-position:-50px -400px
+    }
+    .logo-ncaa-small.teamId-2572 {
+        background-position:-75px -400px
+    }
+    .logo-ncaa-small.teamId-2579 {
+        background-position:-100px -400px
+    }
+    .logo-ncaa-small.teamId-2582 {
+        background-position:-125px -400px
+    }
+    .logo-ncaa-small.teamId-2597 {
+        background-position:-150px -400px
+    }
+    .logo-ncaa-small.teamId-2598 {
+        background-position:-175px -400px
+    }
+    .logo-ncaa-small.teamId-2599 {
+        background-position:-200px -400px
+    }
+    .logo-ncaa-small.teamId-2603 {
+        background-position:-225px -400px
+    }
+    .logo-ncaa-small.teamId-2608 {
+        background-position:-250px -400px
+    }
+    .logo-ncaa-small.teamId-2612 {
+        background-position:-275px -400px
+    }
+    .logo-ncaa-small.teamId-2617 {
+        background-position:-300px -400px
+    }
+    .logo-ncaa-small.teamId-2619 {
+        background-position:-325px -400px
+    }
+    .logo-ncaa-small.teamId-2623 {
+        background-position:-350px -400px
+    }
+    .logo-ncaa-small.teamId-2628 {
+        background-position:-375px -400px
+    }
+    .logo-ncaa-small.teamId-2630 {
+        background-position:-400px -400px
+    }
+    .logo-ncaa-small.teamId-2633 {
+        background-position:-425px -400px
+    }
+    .logo-ncaa-small.teamId-2634 {
+        background-position:-450px -400px
+    }
+    .logo-ncaa-small.teamId-2635 {
+        background-position:-475px -400px
+    }
+    .logo-ncaa-small.teamId-2636 {
+        background-position:0 -425px
+    }
+    .logo-ncaa-small.teamId-2638 {
+        background-position:-25px -425px
+    }
+    .logo-ncaa-small.teamId-2640 {
+        background-position:-50px -425px
+    }
+    .logo-ncaa-small.teamId-2641 {
+        background-position:-75px -425px
+    }
+    .logo-ncaa-small.teamId-2643 {
+        background-position:-100px -425px
+    }
+    .logo-ncaa-small.teamId-2649 {
+        background-position:-125px -425px
+    }
+    .logo-ncaa-small.teamId-2653 {
+        background-position:-150px -425px
+    }
+    .logo-ncaa-small.teamId-2655 {
+        background-position:-175px -425px
+    }
+    .logo-ncaa-small.teamId-2670 {
+        background-position:-200px -425px
+    }
+    .logo-ncaa-small.teamId-2674 {
+        background-position:-225px -425px
+    }
+    .logo-ncaa-small.teamId-2678 {
+        background-position:-250px -425px
+    }
+    .logo-ncaa-small.teamId-2681 {
+        background-position:-275px -425px
+    }
+    .logo-ncaa-small.teamId-2692 {
+        background-position:-300px -425px
+    }
+    .logo-ncaa-small.teamId-2710 {
+        background-position:-325px -425px
+    }
+    .logo-ncaa-small.teamId-2711 {
+        background-position:-350px -425px
+    }
+    .logo-ncaa-small.teamId-2717 {
+        background-position:-375px -425px
+    }
+    .logo-ncaa-small.teamId-2724 {
+        background-position:-400px -425px
+    }
+    .logo-ncaa-small.teamId-2729 {
+        background-position:-425px -425px
+    }
+    .logo-ncaa-small.teamId-2736 {
+        background-position:-450px -425px
+    }
+    .logo-ncaa-small.teamId-2737 {
+        background-position:-475px -425px
+    }
+    .logo-ncaa-small.teamId-2739 {
+        background-position:0 -450px
+    }
+    .logo-ncaa-small.teamId-2745 {
+        background-position:-25px -450px
+    }
+    .logo-ncaa-small.teamId-2750 {
+        background-position:-50px -450px
+    }
+    .logo-ncaa-small.teamId-2751 {
+        background-position:-75px -450px
+    }
+    .logo-ncaa-small.teamId-2752 {
+        background-position:-100px -450px
+    }
+    .logo-ncaa-small.teamId-2754 {
+        background-position:-125px -450px
+    }
+    .logo-ncaa-small.teamId-2755 {
+        background-position:-150px -450px
+    }
+    .logo-ncaa-small.teamId-2803 {
+        background-position:-175px -450px
+    }
+    .logo-ncaa-small.teamId-2870 {
+        background-position:-200px -450px
+    }
+    .logo-ncaa-small.teamId-2885 {
+        background-position:-225px -450px
+    }
+    .logo-ncaa-small.teamId-2908 {
+        background-position:-250px -450px
+    }
+    .logo-ncaa-small.teamId-2934 {
+        background-position:-275px -450px
+    }
+    .logo-ncaa-small.teamId-3084 {
+        background-position:-300px -450px
+    }
+    .logo-ncaa-small.teamId-258_ncb {
+        background-position:-325px -450px
+    }
+    .logo-ncaa-small.teamId-258_ncf {
+        background-position:-350px -450px
+    }
+    .logo-ncaa-small.teamId-2633_bkw {
+        background-position:-375px -450px
+    }
+    .logo-ncaa-small.teamId-2633_ncw {
+        background-position:-400px -450px
+    }
+    .logo-ncaa-small.teamId-158 {
+        background-position:-425px -450px
+    }
+    .logo-ncaa-small.teamId-2747 {
+        background-position:-450px -450px
+    }
+    .logo-ncaa-small.teamId-2547 {
+        background-position:-475px -450px
+    }

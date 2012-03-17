@@ -1,7 +1,7 @@
 {
     "school": "NCAA games",
     "games": [
-		{
+        {
             "dt": 16,
             "team_a": {
                 "id": 2132,
@@ -9,7 +9,7 @@
                 "score": 65
             },
             "team_b": {
-            	"id": 251,
+                "id": 251,
                 "school": "Texas",
                 "score": 59
             }
@@ -17,10 +17,12 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 21,
                 "school": "San Diego State",
                 "score": 65
             },
             "team_b": {
+                "id": 152,
                 "school": "North Carolina State",
                 "score": 79
             }
@@ -28,10 +30,12 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 156,
                 "school": "Creighton",
                 "score": 58
             },
             "team_b": {
+                "id": 333,
                 "school": "Alabama",
                 "score": 57
             }
@@ -39,10 +43,12 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 57,
                 "school": "Florida",
                 "score": 71
             },
             "team_b": {
+                "id": 258,
                 "school": "Virginia",
                 "score": 45
             }
@@ -50,10 +56,12 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 52,
                 "school": "Florida State",
                 "score": 66
             },
             "team_b": {
+                "id": 179,
                 "school": "St. Bonaventure",
                 "score": 63
             }
@@ -61,10 +69,12 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 46,
                 "school": "Georgetown",
                 "score": 74
             },
             "team_b": {
+                "id": 2057,
                 "school": "Belmont",
                 "score": 59
             }
@@ -72,10 +82,12 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 153,
                 "school": "North Carolina",
                 "score": 77
             },
             "team_b": {
+                "id": 261,
                 "school": "Vermont",
                 "score": 58
             }
@@ -83,10 +95,12 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 142,
                 "school": "Missouri",
                 "score": 84
             },
             "team_b": {
+                "id": 2450,
                 "school": "Norfolk State",
                 "score": 86
             }
@@ -94,103 +108,121 @@
         {
             "dt": 16,
             "team_a": {
+                "id": 235,
                 "school": "Memphis",
-                "score": 23
+                "score": 54
             },
             "team_b": {
+                "id": 139,
                 "school": "Saint Louis",
-                "score": 23
+                "score": 61
             }
         },
         {
             "dt": 16,
             "team_a": {
+                "id": 150,
                 "school": "Duke",
-                "score": 27
+                "score": 70
             },
             "team_b": {
+                "id": 2329,
                 "school": "Lehigh",
-                "score": 26
+                "score": 75
             }
         },
         {
             "dt": 16,
             "team_a": {
+                "id": 130,
                 "school": "Michigan",
-                "score": 22
+                "score": 60
             },
             "team_b": {
+                "id": 195,
                 "school": "Ohio",
-                "score": 32
+                "score": 65
             }
         },
         {
             "dt": 16,
             "team_a": {
+                "id": 2608,
                 "school": "Saint Mary's",
-                "score": 11
+                "score": 69
             },
             "team_b": {
+                "id": 2509,
                 "school": "Purdue",
-                "score": 13
+                "score": 72
             }
         },
         {
             "dt": 16,
             "time": "21:20",
             "team_a": {
+                "id": 127,
                 "school": "Michigan State",
-                "score": null
+                "score": 89
             },
             "team_b": {
+                "id": 2341,
                 "school": "Long Island",
-                "score": null
+                "score": 67
             }
         },
         {
             "dt": 16,
             "time": "21:45",
             "team_a": {
+                "id": 87,
                 "school": "Notre Dame",
-                "score": null
+                "score": 63
             },
             "team_b": {
+                "id": 2752,
                 "school": "Xavier",
-                "score": null
+                "score": 67
             }
         },
         {
             "dt": 16,
             "time": "21:50",
             "team_a": {
+                "id": 218,
                 "school": "Temple",
-                "score": null
+                "score": 44
             },
             "team_b": {
+                "id": 58,
                 "school": "South Florida",
-                "score": null
+                "score": 58
             }
         },
         {
             "dt": 16,
             "time": "21:57",
             "team_a": {
+                "id": 2305,
                 "school": "Kansas",
-                "score": null
+                "score": 65
             },
             "team_b": {
+                "id": 2174,
                 "school": "Detroit",
-                "score": null
+                "score": 50
             }
         },
         {
             "dt": 17,
             "time": "12:15",
             "team_a": {
+                "id": 183,
                 "school": "Syracuse",
                 "score": null
             },
             "team_b": {
+                "id": 2306,
                 "school": "Kansas State",
                 "score": null
             }
@@ -199,10 +231,12 @@
             "dt": 17,
             "time": "14:45",
             "team_a": {
+                "id": 194,
                 "school": "Ohio State",
                 "score": null
             },
             "team_b": {
+                "id": 2250,
                 "school": "Gonzaga",
                 "score": null
             }
@@ -211,10 +245,12 @@
             "dt": 17,
             "time": "17:15",
             "team_a": {
+                "id": 269,
                 "school": "Marquette",
                 "score": null
             },
             "team_b": {
+                "id": 93,
                 "school": "Murray State",
                 "score": null
             }
@@ -223,10 +259,12 @@
             "dt": 17,
             "time": "18:10",
             "team_a": {
+                "id": 275,
                 "school": "Wisconsin",
                 "score": null
             },
             "team_b": {
+                "id": 238,
                 "school": "Vanderbilt",
                 "score": null
             }
@@ -235,10 +273,12 @@
             "dt": 17,
             "time": "19:10",
             "team_a": {
+                "id": 84,
                 "school": "Indiana",
                 "score": null
             },
             "team_b": {
+                "id": 2670,
                 "school": "Virginia Commonwealth",
                 "score": null
             }
@@ -247,11 +287,41 @@
             "dt": 17,
             "time": "19:45",
             "team_a": {
+                "id": 96,
                 "school": "Kentucky",
                 "score": null
             },
             "team_b": {
+                "id": 66,
                 "school": "Iowa State",
+                "score": null
+            }
+        },
+        {
+            "dt": 17,
+            "time": "20:40",
+            "team_a": {
+                "id": 38,
+                "school": "Colorado",
+                "score": null
+            },
+            "team_b": {
+                "id": 239,
+                "school": "Baylor",
+                "score": null
+            }
+        },
+        {
+            "dt": 17,
+            "time": "21:40",
+            "team_a": {
+                "id": 167,
+                "school": "New Mexico",
+                "score": null
+            },
+            "team_b": {
+                "id": 97,
+                "school": "Louisville",
                 "score": null
             }
         }
