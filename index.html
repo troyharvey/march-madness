@@ -16,6 +16,7 @@
       #heading {
         margin:10px;
         text-align:center;
+        white-space: nowrap;
       }
       .session-time {
         display: inline-block;
@@ -227,7 +228,7 @@
       Handlebars.registerHelper('formatTweet', function(context) {
 
         return ify.clean(context.text);
-        
+
       });
 
       $.getJSON('http://winaspectreapi.appspot.com/api/sessions?callback=?', function(data) {
